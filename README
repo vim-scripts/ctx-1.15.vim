@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=126
+
+CTX is an attempt to help Vim users navigate in C
+program files with very large function definitions. Such
+files should generally not exist, but alas they do, and
+sometimes we need to make changes to them.
+
+This script helps by opening a small window in your Vim
+session and keeping up-to-date with a few lines of text
+describing your cursor&#039s current scope or context in a C
+file.
+
+http://www.bluweb.com/us/chouser/proj/ctx/
+
